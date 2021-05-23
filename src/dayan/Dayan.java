@@ -16,6 +16,7 @@ import java.util.Scanner;
  */
 public class Dayan {
 
+    
     /**
      * @param args the command line arguments
      */
